@@ -1,0 +1,10 @@
+streamlit>=1.33
+yfinance>=0.2.40
+plotly>=5.20
+pandas>=2.1
+numpy>=1.24
+scipy>=1.10
+pyarrow>=14.0
+lxml>=5.0
+requests>=2.31
+anthropic>=0.40   # optional: only needed for the AI "desk read"
